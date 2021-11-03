@@ -8,6 +8,6 @@ public class TestAppController {
 
     @GetMapping("/home")
     public String getHome(){
-        return "Hello this is production app";
+        return "Hello this is production website";
     }
 }
